@@ -5,24 +5,27 @@ import Layout from '../components/layout'
 const WorkPage = ({data}) => {
   return (
     <Layout pageTitle="Work Samples">
-      <ul>
       {
-        data.allFile.nodes.map(node => (
-          <li key={node.name}>
-            {node.name}
-          </li>
-          ))
+        data.allMdx.nodes.map((node) => (
+          <article key={node.id}>
+            <h2>{node.frontmatter.title}</h2>
+          </article>
+        ))
       }
-      </ul>
     </Layout>
   )
 }
 
 export const query = graphql`
   query {
-    allFile {
+    allMdx(sort: {fields: frontmatter___date, order: DESC}) {
       nodes {
-        name
+        frontmatter {
+          date(formatString: "MMMM D, YYYY")
+          title
+        }
+        id
+        body
       }
     }
   }
