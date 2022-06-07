@@ -1,6 +1,6 @@
 import * as React from 'react'
-import { graphql } from 'gatsby'
-import Layout from '../components/layout'
+import { Link, graphql } from 'gatsby'
+import Layout from '../../components/layout'
 
 const WorkPage = ({data}) => {
   return (
@@ -8,7 +8,11 @@ const WorkPage = ({data}) => {
       {
         data.allMdx.nodes.map((node) => (
           <article key={node.id}>
-            <h2>{node.frontmatter.title}</h2>
+            <h2>
+              <Link to={`/work/${node.slug}`}>
+                {node.frontmatter.title}
+              </Link>
+            </h2>
           </article>
         ))
       }
@@ -25,7 +29,7 @@ export const query = graphql`
           title
         }
         id
-        body
+        slug
       }
     }
   }
