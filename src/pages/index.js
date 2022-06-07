@@ -60,7 +60,7 @@ const IndexPage = () => {
         I live with my boyfriend and cat in <a href="https://en.wikipedia.org/wiki/Philadelphia" target="_blank">Philadelphia, PA, USA</a>, a small big city which we have come to love. I spend many nights cooking, pulling ingredients from a pantry I've overstocked with random spices and ingredients. 
       </p>
       <p>
-        storytelling has been a constant for me, and what once lived only in daydreams I've learned to channel into tabletop gaming with my friends. I like to call myself a "game weaver" instead of a dungeon master, working to string together many loose threads of magic and mechanics into an enjoyable experience<a href="https://clips.twitch.tv/CloudySuspiciousClintCharlietheUnicorn-NfEhW1KXrFkynB6r" target="_blank">.</a> 
+        storytelling has been a constant for me, and what once lived only in daydreams I've learned to channel into tabletop gaming with my friends. I like to call myself a "game weaver" instead of a dungeon master, working to string together many loose threads of magic and mechanics into an enjoyable experience<a href="https://clips.twitch.tv/PlainAlivePangolinTBCheesePull?tt_medium=my_clips" target="_blank">.</a> 
       </p>
 
       <p><a href="#top" class="small">^ back to top</a></p>
