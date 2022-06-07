@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Dan Singer`,
+    title: `dan singer`,
     siteUrl: `https://www.singerde.com`,
   },
   plugins: [
@@ -14,5 +14,15 @@ module.exports = {
       }
     },
     "gatsby-plugin-mdx",
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `karla`,
+          `inconsolata`
+        ],
+        display: 'swap'
+      }
+    }
   ],
 }

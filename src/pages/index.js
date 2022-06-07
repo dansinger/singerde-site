@@ -6,10 +6,6 @@ const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
       <p>Test homepage</p>
-        <StaticImage
-          alt="Finley Murgleton"
-          src="../images/finn.jpg"
-        />
     </Layout>
   )
 }
