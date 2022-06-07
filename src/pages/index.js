@@ -13,10 +13,10 @@ const IndexPage = () => {
         <p>
           from the first time I used home dial-up in the 3rd grade to write a dinosaur report, I was hooked.<a href="https://en.wikipedia.org/wiki/Maiasaura" target="_blank">🦕</a> 
         </p>
-        <p>for me, that wired, tenuous connection allowed me to try on a self that was more confident on fan forums and in games. it taught me to cultivate my curiosity and value learning beyond the confines of what was infront of me. I notices how it brought people together based on commonalities in ways that could never otherwise happen.  
+        <p>for me, that wired, tenuous connection allowed me to try on a self that was more confident on fan forums and in games. it taught me to cultivate my curiosity and value learning beyond the confines of what was in front of me. I noticed how it brought people together based on commonalities in ways that could never otherwise happen.  
         </p> 
         <p>
-          and as I've grown alongside the internet, I've seen the ways in which it has enabled toxic relationships with one another and with ourselves. as tech profressional, I've been interested in the ways in which design (or anti-design) shapes the interactions that we're able to have. that has driven me to get curious about the ways we can positively impact those forces.
+          and as I've grown alongside the internet, I've seen the ways in which it has enabled toxic relationships with one another and with ourselves. as a tech professional, I've been interested in the ways in which design (or anti-design) shapes the interactions that we're able to have. that has driven me to get curious about the ways we can positively impact those forces.
         </p>
       </div>
 
