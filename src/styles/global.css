@@ -1,0 +1,24 @@
+html {
+  background-color: #22333B;
+}
+
+p {
+  color: white;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+a {
+  color: #2de1fc;
+}
+
+a:hover {
+  color: #ffe45e;
+}
+
+a.small {
+  font-size: 0.8rem;
+  text-decoration: none;
+}

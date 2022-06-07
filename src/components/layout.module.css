@@ -1,14 +1,35 @@
+
+/* headings & titles */
+h2 {
+  margin-top: 4rem;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight:  400;
+}
+
+.site-title {
+  font-size: 3rem;
+  color: #FC7753;
+  font-family: Karla;
+  font-weight: 600;
+  letter-spacing: -1px;
+  margin: 3rem 0 0 0;
+}
+
+/* body */
 .container {
   margin: auto;
-  max-width: 500px;
+  padding-bottom: 6rem;
+  max-width: 850px;
   font-family: inconsolata, sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
 }
 
-.heading {
-  color: rebeccapurple;
-}
-
-.nav-links {
+/* navigation */
+/*.nav-links {
   display: flex;
   list-style: none;
   padding-left: 0;
@@ -21,12 +42,19 @@
 .nav-link-text {
   color: black;
 }
+*/
 
-.site-title {
-  font-size: 3rem;
-  color: gray;
-  font-family: Karla;
-  font-weight: 600;
-  letter-spacing: -1px;
-  margin: 3rem 0;
+/* page navigation */
+.page-nav-links {
+  display:  flex;
+  list-style:  none;
+  padding-left:  0;
+  padding-bottom: 2rem;
+}
+
+.page-nav-item {
+  padding-right:  2rem;
+}
+
+.page-nav-link-text {
 }

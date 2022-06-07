@@ -3,9 +3,9 @@ import { Link,useStaticQuery, graphql } from 'gatsby'
 import {
   container,
   heading,
-  navLinks,
-  navLinkItem,
-  navLinkText,
+  pageNavLinks,
+  pageNavItem,
+  pageNavLinkText,
   siteTitle
 } from './layout.module.css'
 
@@ -21,31 +21,31 @@ const Layout = ({ pageTitle, children }) => {
   `)
 
   return (
-    <div className={container}>
+    <div className={container} id="top">
       <title>{pageTitle} | {data.site.siteMetadata.title}</title>
       <header className={siteTitle}>{data.site.siteMetadata.title}</header>
       <nav>
-        <ul className={navLinks}>
-          <li className={navLinkItem}>
-            <Link to="/">
-              Home
+        <ul className={pageNavLinks} id="pageNav">
+          <li className={pageNavItem}>
+            <Link to="#work" className={pageNavLinkText}>
+              work
             </Link>
           </li>
-          <li className={navLinkItem}>
-            <Link to="/about">
-              About
+          <li className={pageNavItem}>
+            <Link to="#education" className={pageNavLinkText}>
+              education
             </Link>
           </li>
-          <li className={navLinkItem}>
-            <Link to="/work">
-              Work
+          <li className={pageNavItem}>
+            <Link to="#about" className={pageNavLinkText}>
+              about
             </Link>
           </li>
         </ul>
       </nav>
       <main>
-        <h1 className={heading}>{pageTitle}</h1>
-        {children}
+{/*        <h1 className={heading}>{pageTitle}</h1>
+*/}        {children}
       </main>
     </div>
   )
