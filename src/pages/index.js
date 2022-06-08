@@ -47,7 +47,7 @@ const IndexPage = () => {
         I am a chronic over-thinker and unstoppable busybody, which drove me to study <strong>anthropology</strong>. I fused that with my love of music and performance to study <strong>ethnomusicology</strong> at Boston University, where I studied ethnograpy and a compliment of qualtiative methods. 
       </p>
       <h3>M.A., Ethnomusicology / Boston University (2014)</h3>
-      <h3>B.A.. Anropology, magna cum laude / James Madison University (2012)</h3>
+      <h3>B.A.. Anthropology, magna cum laude / James Madison University (2012)</h3>
       <h3>Graduate Questionnaire Design coursework / UMich: Summer Institute in Survey Techniques (2021)</h3> 
 
       <p><a href="#top" class="small">^ back to top</a></p>
