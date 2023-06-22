@@ -25,10 +25,13 @@ const IndexPage = () => {
         <span id="work">// work</span>
       </h2>
       <p>
-        I am a <strong>Product Research Lead</strong> for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects to inform the roadmap for the Stack Overflow community. I have spent a year working on new, inclusive spaces for all technologists to learn.
+        I am a <strong>Lead Product Researcher</strong> at <a href="https://www.disneyplus.com/home" targer="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch.
+      </p>    
+      <p>  
+        previously, I was Product Research Lead for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects to inform the roadmap for the Stack Overflow community. I have spent a year working on new, inclusive spaces for all technologists to learn.
       </p> 
       <p>
-        with over 10 years of experience conducting mixed-methods research, I bring formal training in social science research and practical experience conducting primary research in the field. Alongside research experience, I've served a variety of design and strategy roles across B2B and B2C companies.
+        with over 10 years of experience conducting mixed-methods research, I bring formal training in social science research and practical experience conducting primary research in the field. Alongside research experience, I've served a variety of design and strategy roles across B2B and B2C companies. I've supported brands like Comcast, Johnson & Johnson, and La Colombe.
       </p>
       <p>
         for detailed work history, see my <a href="https://www.linkedin.com/in/singerde/" target="_blank">linkedin</a>.
@@ -57,7 +60,7 @@ const IndexPage = () => {
         <span id="about">// about</span>
       </h2>
       <p>
-        I live with my boyfriend and cat in <a href="https://en.wikipedia.org/wiki/Philadelphia" target="_blank">Philadelphia, PA, USA</a>, a small big city which we have come to love. I spend many nights cooking, pulling ingredients from a pantry I've overstocked with random spices. 
+        I live with my partner and cats in <a href="https://en.wikipedia.org/wiki/Philadelphia" target="_blank">Philadelphia, PA, USA</a>, a small big city which we have come to love. I spend many nights cooking, pulling ingredients from a pantry I've overstocked with random spices. 
       </p>
       <p>
         storytelling has been a constant for me, and what once lived only in daydreams I've learned to channel into tabletop gaming with my friends. I like to call myself a "game weaver" instead of a dungeon master, working to string together many loose threads of magic and mechanics into an enjoyable experience<a href="https://clips.twitch.tv/PlainAlivePangolinTBCheesePull?tt_medium=my_clips" target="_blank">.</a> 
