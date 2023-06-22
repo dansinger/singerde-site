@@ -4,7 +4,7 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
+    <Layout pageTitle="dan singer">
       {/*intro*/}
       <div>
         <p>
@@ -25,10 +25,10 @@ const IndexPage = () => {
         <span id="work">// work</span>
       </h2>
       <p>
-        I am a <strong>Lead Product Researcher</strong> at <a href="https://www.disneyplus.com/home" targer="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch.
+        I am a <strong>Lead Product Researcher</strong> at <a href="https://www.disneyplus.com/home" targer="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch. recently, I completed a major survey of Disney Bundle subscribers that used cluster analysis (UMAP & HDBSCAN) to identify four unique audiences by their respective behaviors, perceptions, and demographics.
       </p>    
       <p>  
-        previously, I was Product Research Lead for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects to inform the roadmap for the Stack Overflow community. I have spent a year working on new, inclusive spaces for all technologists to learn.
+        previously, I was Product Research Lead for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects such as new, inclusive spaces for all technologists to learn known as <a href="https://stackoverflow.com/collectives?utm_source=so-owned" target="_blank">Collectives</a>.
       </p> 
       <p>
         with over 10 years of experience conducting mixed-methods research, I bring formal training in social science research and practical experience conducting primary research in the field. Alongside research experience, I've served a variety of design and strategy roles across B2B and B2C companies. I've supported brands like Comcast, Johnson & Johnson, and La Colombe.
