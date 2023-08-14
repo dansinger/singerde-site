@@ -37,7 +37,11 @@ const IndexPage = () => {
         for detailed work history, see my <a href="https://www.linkedin.com/in/singerde/" target="_blank">linkedin</a>.
       </p>
       <p>
-        for samples of work, please <a href="mailto:singerde1@gmail.com?subject=Web Contact">contact me</a>.
+        for samples of work, use given password for either study: 
+          (<a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoic3o1VStkS25wT2tXSXdGcFk3eFp6aE5PRmFwL2tkS1hCcFQ3Q0FwWUtsUkVSSGNVRWQyRGt4S3hkSktOWGJ4aEhZODdNYzF2SWZvUXVBYkhDZDlNMk92ZU1ONE1wRHQ2bEFOWEFwNytsMGI5SVRpNlZ4T1JuNDVjV3dvYjY4ZkFPdzA9IiwiaCI6IlBsZWFzZSBzZWUgYXBwbGljYXRpb24gb3IgY29udGFjdCBEYW4gU2luZ2VyIChzaW5nZXJkZTFAZ21haWwuY29tKSIsInMiOiJNUTJvQnpFb2lsNThIZzFVekM2MGF3PT0iLCJpIjoiVXJIcERDVndDK3RjdHdQcSJ9" target="_blank">
+          1: initiative plan and qualitative research</a> | 
+          <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVTV3OVZSWVc1c0JBVW9kNVp5UFU1SVk4bTdsVjB3TEZCTS9jYkc4cEdPUENiaEZMWVgwUUlwTVVzRURkZVY1cmFwUk9nRExDNEVBZW5UNzVaKzRqaURyMWIvbFRsNjFIbmlyQjVQZGM2VllrcDBOMEZsOVlVYUhKZzVKeFBHOTA2NEk9IiwiaCI6IlBsZWFzZSBzZWUgYXBwbGljYXRpb24gb3IgY29udGFjdCBEYW4gU2luZ2VyIChzaW5nZXJkZTFAZ21haWwuY29tKSIsInMiOiJvVHRNU053NytVNWI0TTVnZ3JwQlZ3PT0iLCJpIjoiRzFBeitqSUpxUkwxOG0yUSJ9" target="_blank">
+          2: survey and cluster analysis</a>). If you would like access or to see more work, please <a href="mailto:singerde1@gmail.com?subject=Web Contact">contact me</a>.
       </p>
 
       <p><a href="#top" class="small">^ back to top</a></p>
