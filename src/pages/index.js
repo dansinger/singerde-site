@@ -25,24 +25,27 @@ const IndexPage = () => {
         <span id="work">// work</span>
       </h2>
       <p>
-        I am a <strong>Lead Product Researcher</strong> at <a href="https://www.disneyplus.com/home" targer="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch. recently, I completed a major survey of Disney Bundle subscribers that used cluster analysis (UMAP & HDBSCAN) to identify four unique audiences by their respective behaviors, perceptions, and demographics.
-      </p>    
-      <p>  
-        previously, I was Product Research Lead for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects such as new, inclusive spaces for all technologists to learn known as <a href="https://stackoverflow.com/collectives?utm_source=so-owned" target="_blank">Collectives</a>.
-      </p> 
+        <a href="https://www.linkedin.com/in/singerde/" target="_blank">🔗 linkedin</a> / <a href="https://drive.google.com/file/d/1Rpj4Q1pNMsVJ-zctOnSmvAHsDbVNGSds/view?usp=sharing" target="_blank">📝 résumé</a> 
+      </p>
+      <p>
+        I am a <strong>Staff UX Reseacher</strong> at <a href="https://www.paylocity.com/" target="_blank">Paylocity</a>, where I am part of a newly formed research practice. I collaborate with product, design, and engineering to make improvmeents to the unified platform, inlcuding incoporating AI in ways that center our customers and their employees.
+      </p>
+      <p>
+        recently, I've worked as...
+      </p>
+      <ul>
+        <li><strong>independent research consultant</strong> with <a href="https://www.aegpresents.com/" target="_blank">AEG Presents</a>, where I have supported on-site and remote research and strategy for festivals including Coachella and Camp Flog Gnaw</li>
+        <li><strong>Lead Product Researcher</strong> at <a href="https://www.disneyplus.com/home" target="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch. there, I completed a major survey of Disney Bundle subscribers that used cluster analysis (UMAP & HDBSCAN) to identify four unique audiences by their respective behaviors, perceptions, and demographics.</li>
+        <li><strong>Product Research Lead</strong> for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects such as new, inclusive spaces for all technologists to learn known as <a href="https://stackoverflow.com/collectives?utm_source=so-owned" target="_blank">Collectives</a></li>
+      </ul>
+        
       <p>
         with over 10 years of experience conducting mixed-methods research, I bring formal training in social science research and practical experience conducting primary research in the field. Alongside research experience, I've served a variety of design and strategy roles across B2B and B2C companies. I've supported brands like Comcast, Johnson & Johnson, and La Colombe.
       </p>
       <p>
-        for detailed work history, see my <a href="https://www.linkedin.com/in/singerde/" target="_blank">linkedin</a>.
+        for samples of work, please contact me via <a href="mailto:singerde1@gmail.com?subject=Web Contact">email</a> or on linkedin.
       </p>
-      <p>
-        for samples of work, use given password for either study: 
-          (<a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoic3o1VStkS25wT2tXSXdGcFk3eFp6aE5PRmFwL2tkS1hCcFQ3Q0FwWUtsUkVSSGNVRWQyRGt4S3hkSktOWGJ4aEhZODdNYzF2SWZvUXVBYkhDZDlNMk92ZU1ONE1wRHQ2bEFOWEFwNytsMGI5SVRpNlZ4T1JuNDVjV3dvYjY4ZkFPdzA9IiwiaCI6IlBsZWFzZSBzZWUgYXBwbGljYXRpb24gb3IgY29udGFjdCBEYW4gU2luZ2VyIChzaW5nZXJkZTFAZ21haWwuY29tKSIsInMiOiJNUTJvQnpFb2lsNThIZzFVekM2MGF3PT0iLCJpIjoiVXJIcERDVndDK3RjdHdQcSJ9" target="_blank">
-          1: initiative plan and qualitative research</a> | 
-          <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVTV3OVZSWVc1c0JBVW9kNVp5UFU1SVk4bTdsVjB3TEZCTS9jYkc4cEdPUENiaEZMWVgwUUlwTVVzRURkZVY1cmFwUk9nRExDNEVBZW5UNzVaKzRqaURyMWIvbFRsNjFIbmlyQjVQZGM2VllrcDBOMEZsOVlVYUhKZzVKeFBHOTA2NEk9IiwiaCI6IlBsZWFzZSBzZWUgYXBwbGljYXRpb24gb3IgY29udGFjdCBEYW4gU2luZ2VyIChzaW5nZXJkZTFAZ21haWwuY29tKSIsInMiOiJvVHRNU053NytVNWI0TTVnZ3JwQlZ3PT0iLCJpIjoiRzFBeitqSUpxUkwxOG0yUSJ9" target="_blank">
-          2: survey and cluster analysis</a>). If you would like access or to see more work, please <a href="mailto:singerde1@gmail.com?subject=Web Contact">contact me</a>.
-      </p>
+
 
       <p><a href="#top" class="small">^ back to top</a></p>
 
@@ -65,6 +68,9 @@ const IndexPage = () => {
       </h2>
       <p>
         I live with my partner and cats in <a href="https://en.wikipedia.org/wiki/Philadelphia" target="_blank">Philadelphia, PA, USA</a>, a small big city which we have come to love. I spend many nights cooking, pulling ingredients from a pantry I've overstocked with random spices. 
+      </p>
+      <p>
+        I practice traditional kintsugi, the Japanese art of mending broken ceramics with lacquer. I share some of my work on <a href="https://www.instagram.com/sparrow_kintsugi" target="_blank">instagram</a>. 
       </p>
       <p>
         storytelling has been a constant for me, and what once lived only in daydreams I've learned to channel into tabletop gaming with my friends. I like to call myself a "game weaver" instead of a dungeon master, working to string together many loose threads of magic and mechanics into an enjoyable experience<a href="https://clips.twitch.tv/PlainAlivePangolinTBCheesePull?tt_medium=my_clips" target="_blank">.</a> 

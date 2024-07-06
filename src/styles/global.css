@@ -2,12 +2,20 @@ html {
   background-color: #22333B;
 }
 
+h1, h2, h3 {
+  color: white;
+}
+
 p {
   color: white;
 }
 
-h1, h2, h3 {
+ul {
   color: white;
+}
+
+li { 
+   margin-bottom: 12px;  
 }
 
 a {
