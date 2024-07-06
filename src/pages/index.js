@@ -35,8 +35,8 @@ const IndexPage = () => {
       </p>
       <ul>
         <li><strong>independent research consultant</strong> with <a href="https://www.aegpresents.com/" target="_blank">AEG Presents</a>, where I have supported on-site and remote research and strategy for festivals including Coachella and Camp Flog Gnaw</li>
-        <li><strong>Lead Product Researcher</strong> at <a href="https://www.disneyplus.com/home" target="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch. there, I completed a major survey of Disney Bundle subscribers that used cluster analysis (UMAP & HDBSCAN) to identify four unique audiences by their respective behaviors, perceptions, and demographics.</li>
-        <li><strong>Product Research Lead</strong> for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects such as new, inclusive spaces for all technologists to learn known as <a href="https://stackoverflow.com/collectives?utm_source=so-owned" target="_blank">Collectives</a></li>
+        <li><strong>lead product researcher</strong> at <a href="https://www.disneyplus.com/home" target="_blank">Disney Streaming</a>. There, I lead strategic research projects to find ways to help our subscribers discover new content to watch. there, I completed a major survey of Disney Bundle subscribers that used cluster analysis (UMAP & HDBSCAN) to identify four unique audiences by their respective behaviors, perceptions, and demographics.</li>
+        <li><strong>product research lead</strong> for Community Products on <a href="https://stackoverflow.co/" target="_blank">Stack Overflow</a>, leading long-term strategic projects such as new, inclusive spaces for all technologists to learn known as <a href="https://stackoverflow.com/collectives?utm_source=so-owned" target="_blank">Collectives</a></li>
       </ul>
         
       <p>
